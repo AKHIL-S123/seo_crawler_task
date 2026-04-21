@@ -1,0 +1,9 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14,<4.0
+psycopg2-binary>=2.9
+mysqlclient>=2.1          # Optional: only needed for MySQL
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9                 # XML parser for sitemap parsing
+playwright>=1.40
+nltk>=3.8
